@@ -1,6 +1,6 @@
 # A0-Learn-GitHub
 
-1.  $ mkdir <local project repository> && cd <local project repository> && git init
+1.  $ mkdir /<local project repository/> && cd /<local project repository/> && git init
 
 2.  Browse into the developer repository at github.com
 
